@@ -1,2 +1,5 @@
-# real-estate-app
-Vue 3 &amp; NestJS
+# Real Estate App
+
+Tech Stack:
+- Frontend - Vue 3 
+- Backend - NestJS
