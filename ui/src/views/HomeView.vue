@@ -1,5 +1,5 @@
 <template>
   <main>
-    <h1>Home page</h1>
+    <h1 class="text-3xl font-bold underline">Home page</h1>
   </main>
 </template>
