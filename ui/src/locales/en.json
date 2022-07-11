@@ -1,3 +1,15 @@
 {
-    "hello": "Hello"
+    "menu": {
+        "home": "Home",
+        "browse": "Browse",
+        "login": "Sign In",
+        "register": "Sign Up"
+    },
+    "profile": {
+        "dropdown": {
+            "profile": "Profile",
+            "settings": "Settings",
+            "logout": "Sign out"
+        }
+    }
 }

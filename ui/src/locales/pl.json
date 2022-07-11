@@ -1,3 +1,15 @@
 {
-    "hello": "Witaj"
+    "menu": {
+        "home": "Strona główna",
+        "browse": "Przeglądaj oferty",
+        "login": "Zaloguj",
+        "register": "Załóż konto"
+    },
+    "profile": {
+        "dropdown": {
+            "profile": "Profil",
+            "settings": "Ustawienia",
+            "logout": "Wyloguj"
+        }
+    }
 }
