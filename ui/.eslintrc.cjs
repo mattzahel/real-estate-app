@@ -9,10 +9,18 @@ module.exports = {
     "@vue/eslint-config-typescript/recommended",
     "@vue/eslint-config-prettier",
   ],
+  plugins: ["simple-import-sort", "import"],
   overrides: [
     {
       files: ["cypress/e2e/**.{cy,spec}.{js,ts,jsx,tsx}"],
       extends: ["plugin:cypress/recommended"],
     },
   ],
+  rules: {
+    "simple-import-sort/imports": "error",
+    "simple-import-sort/exports": "error",
+    "import/first": "error",
+    "import/newline-after-import": "error",
+    "import/no-duplicates": "error",
+  },
 };

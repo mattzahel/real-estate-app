@@ -1,14 +1,13 @@
-import { createApp } from "vue";
+import "./assets/tailwind.css";
+
 import { createPinia } from "pinia";
+import { createApp } from "vue";
 import { createI18n } from "vue-i18n";
 
 import App from "./App.vue";
-import router from "./router";
-
-import "./assets/tailwind.css";
-
-import pl from "./locales/pl.json";
 import en from "./locales/en.json";
+import pl from "./locales/pl.json";
+import router from "./router";
 
 const app = createApp(App);
 
