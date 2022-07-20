@@ -2,7 +2,7 @@
   <BaseDropdown :items="menuItems">
     <template #trigger>
       <MenuButton
-        class="flex rounded-full bg-white text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+        class="flex rounded-full bg-white text-sm focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2"
       >
         <span class="sr-only">Open user menu</span>
         <img

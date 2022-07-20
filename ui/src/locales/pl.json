@@ -11,5 +11,13 @@
             "settings": "Ustawienia",
             "logout": "Wyloguj"
         }
+    },
+    "home": {
+        "title": "Wyszukuj, wynajmuj <br> i zarządzaj nieruchomościami w jednym miejscu!",
+        "benefits": [
+            "Mnóstwo ofert wynajmu i łatwe filtrowanie",
+            "Panel administracyjny dla najemcy i wynajmującego",
+            "Całkowicie za darmo"
+        ]
     }
 }

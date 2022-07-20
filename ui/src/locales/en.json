@@ -11,5 +11,13 @@
             "settings": "Settings",
             "logout": "Sign out"
         }
+    },
+    "home": {
+        "title": "Search, rent and manage real estate in one place!",
+        "benefits": [
+            "Lots of rental offers and easy filtering",
+            "Administration panel for the tenant and the landlord",
+            "Completely free"
+        ]
     }
 }
